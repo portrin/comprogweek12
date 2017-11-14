@@ -24,7 +24,7 @@ public class Shape {
 		this.row = row;
 	}
 
-	public int getIndsl;kamgl;sanmdent() {
+	public int getIndent() {
 		return this.indent;
 	}
 
