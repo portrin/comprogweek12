@@ -27,7 +27,7 @@ public class Triangle extends Shape {
 					System.out.print(" ");
 				}
 				for(int k=0;k<i+1;k++){
-					System.out.print(this.charactor+" ");sdgf
+					System.out.print(this.charactor+" ");
 				}
 				System.out.println("");
 			}
